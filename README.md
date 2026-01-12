@@ -1,24 +1,30 @@
-# Hi, I'm Roza 👋
+# Hi, I'm Roza 👋🌸
 
-🌱 I’m learning programming  
+🌱 Learning programming step by step  
 💻 Interested in web development  
 📚 A-Level student  
-✨ Always improving  
+✨ Always improving myself  
 
 ---
 
-## 🛠 Skills
-- 🐍 Python  
-- 🗄️ PostgreSQL  
-- 📊 Excel (learning)
+## 🛠 Skills ✨
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Learning-green?style=for-the-badge)
 
 ---
 
-## 📌 Projects
+## 📌 Projects 🌷
 - 🌸 Beginner Python projects (coming soon)  
-- 🌸 Database practice with PostgreSQL  
+- 🌸 PostgreSQL practice databases  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats 💖
+![Roza's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrozroza&show_icons=true)
+
+---
+
+## 📫 Contact Me 🌼
 - GitHub: https://github.com/afrozroza
